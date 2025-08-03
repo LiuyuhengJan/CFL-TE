@@ -1,1 +1,1 @@
-# CFL-TE
+The code can be executed by running the two files 'SFL_train_ppo.py' and 'train_ppo.py'. The detailed parameters are specified in 'city_data.txt', 'random_numbers.txt', and 'options.py'.
